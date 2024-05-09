@@ -27,7 +27,7 @@
     "chai": "^4.3.7",
     "esbuild": "*",
     "jsdoc-to-markdown": "*",
-    "mocha": "*",
+    "mocha": "^10.4.0",
     "ts-node": "^10.9.1",
     "tsify": "^5.0.4",
     "typescript": "^5.0.4"
